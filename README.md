@@ -1,6 +1,6 @@
 # Kitchen::Azure
 
-TODO: Write a gem description
+A Test Kitchen Driver for Windows Azure
 
 ## Installation
 
